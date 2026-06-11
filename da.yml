@@ -389,39 +389,39 @@ app:
       contributeTranslation: "Bidrag en ny oversættelse"
     home:
       tagline: "Tilpasningsmarkedspladsen for Windows og programmer"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
-    footer:
-      copyright: ~
+      download: "Download"
+    getInvolved: "Engager dig"
+    joinDiscord: "Deltag i Windhawk-fællesskabet på Discord"
+    discussWindhawk: "Diskuter Windhawk på GitHub Discussions"
+    discussMods: "Diskuter Windhawk-modifikationer på GitHub Discussions"
+    browseLinks: "Søg efter andre nyttige links"
+    highlights: "Højdepunkter"
+    robust: "Pålidelighed"
+    robustDescription: "Stabilitet og ydeevne er meget vigtigt for Windhawk. Det er designet til konstant at køre i baggrunden uden at have en mærkbar indvirkning på systemet."
+    simple: "Enkelhed"
+    simpleDescription: "Du behøver ikke at være computerekspert for at bruge Windhawk – alle kan finde ud af det. Komplekse modifikationer kan installeres med blot et par klik og tilpasses via brugervenlige indstillinger."
+    transparent: "Gennemsigtighed"
+    transparentDescription: "De modifikationer, som Windhawk tilbyder, er ikke som at købe «katten i sækken». Hver modifikation præsenteres i form af kildekode, som kan tjekkes for at sikre, at modifikationen gør præcis det, der er angivet."
+  modDetails:
+    getWindhawk: "Download Windhawk for at installere denne modifikation"
+  links:
+    news: "Nyheder"
+    windhawkNews: "Windhawk Nyheder - Ramen Software"
+    windhawkChangelog: "Windhawk ændringslog"
+    community: "Fællesskab"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "Windhawk Modifikationer - GitHub Discussions"
+    documentation: "Dokumentation"
+    creatingNewMod: "Opret ny modifikation"
+    otherTopics: "Andre emner"
+    feedback: "Feedback"
+    reportIssue: "Rapporter et problem"
+    contactRamenSoftware: "Kontakt Ramen Software"
+  download:
+    title: "Opdater Windhawk"
+    newVersionAvailable: "En ny version af Windhawk er tilgængelig"
+    whatsNew: "Hvad er nyt"
+    downloadButton: "Download"
+  footer:
+    copyright: "Ophavsret"
