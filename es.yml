@@ -391,39 +391,39 @@ app:
       contributeTranslation: "Aportar una nueva traducción"
     home:
       tagline: "El mercado de personalización para programas de Windows"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
-    footer:
-      copyright: ~
+      download: "Descargar"
+    getInvolved: "Involúcrate"
+    joinDiscord: "Únete a la comunidad de Windhawk en Discord"
+    discussWindhawk: "Discutir sobre Windhawk en GitHub Discussions"
+    discussMods: "Discutir sobre los mods de Windhawk en GitHub Discussions"
+    browseLinks: "Buscar otros enlaces útiles"
+    highlights: "Destacados"
+    robust: "Fiabilidad"
+    robustDescription: "La estabilidad y el rendimiento son muy importantes para Windhawk. Ha sido diseñado para ejecutarse constantemente en segundo plano sin causar un impacto perceptible en el sistema."
+    simple: "Simplicidad"
+    simpleDescription: "No es necesario ser un experto en informática para usar Windhawk, cualquiera puede utilizarlo. Las modificaciones complejas se pueden instalar en un par de clics y personalizarse mediante opciones muy cómodas."
+    transparent: "Transparencia"
+    transparentDescription: "Las modificaciones que ofrece Windhawk no son «gato por liebre». Cada modificación se presenta en forma de código fuente que se puede revisar para asegurarse de que hace exactamente lo que se afirma."
+  modDetails:
+    getWindhawk: "Descargar Windhawk para instalar esta modificación"
+  links:
+    news: "Noticias"
+    windhawkNews: "Noticias de Windhawk - Ramen Software"
+    windhawkChangelog: "Historial de cambios de Windhawk"
+    community: "Comunidad"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "Modificaciones de Windhawk - GitHub Discussions"
+    documentation: "Documentación"
+    creatingNewMod: "Crear una nueva modificación"
+    otherTopics: "Otros temas"
+    feedback: "Comentarios y soporte"
+    reportIssue: "Informar de un problema"
+    contactRamenSoftware: "Contactar con Ramen Software"
+  download:
+    title: "Actualizar Windhawk"
+    newVersionAvailable: "Hay una nueva versión de Windhawk disponible"
+    whatsNew: "Qué hay de nuevo"
+    downloadButton: "Descargar"
+  footer:
+    copyright: "Derechos de autor"
