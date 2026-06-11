@@ -389,39 +389,39 @@ app:
       contributeTranslation: "Járuljon hozzá egy új fordítással"
     home:
       tagline: "Testreszabási piactér Windowsra és programokra"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
-    footer:
-      copyright: ~
+      download: "Letöltés"
+    getInvolved: "Csatlakozás"
+    joinDiscord: "Csatlakozás a Windhawk közösséghez a Discordon"
+    discussWindhawk: "A Windhawk megbeszélése a GitHub Discussions oldalon"
+    discussMods: "A Windhawk modok megbeszélése a GitHub Discussions oldalon"
+    browseLinks: "További hasznos linkek böngészése"
+    highlights: "Kiemelések"
+    robust: "Megbízhatóság"
+    robustDescription: "A stabilitás és a teljesítmény rendkívül fontos a Windhawk számára. Úgy lett megtervezve, hogy folyamatosan fusson a háttérben anélkül, hogy észrevehető hatással lenne a rendszerre."
+    simple: "Egyszerűség"
+    simpleDescription: "Nem kell számítógépes szakértőnek lenned a Windhawk használatához, bárki használhatja. A bonyolult módosítások mindössze néhány kattintással telepíthetők, és a kényelmes opciók segítségével testreszabhatók."
+    transparent: "Átláthatóság"
+    transparentDescription: "A Windhawk által kínált módosítások nem jelentenek «zsákbamacskát». Minden módosítás forráskód formájában van jelen, amely ellenőrizhető, hogy biztosan pontosan azt tegye, amit ígér."
+  modDetails:
+    getWindhawk: "A Windhawk letöltése a mod telepítéséhez"
+  links:
+    news: "Hírek"
+    windhawkNews: "Windhawk Hírek - Ramen Software"
+    windhawkChangelog: "Windhawk változásnapló"
+    community: "Közösség"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "Windhawk Modok - GitHub Discussions"
+    documentation: "Dokumentáció"
+    creatingNewMod: "Új mod létrehozása"
+    otherTopics: "Egyéb témák"
+    feedback: "Visszajelzés"
+    reportIssue: "Probléma jelentése"
+    contactRamenSoftware: "Kapcsolatfelvétel a Ramen Software-rel"
+  download:
+    title: "Windhawk frissítése"
+    newVersionAvailable: "Új Windhawk verzió érhető el"
+    whatsNew: "Újdonságok"
+    downloadButton: "Letöltés"
+  footer:
+    copyright: "Szerzői jogok"
