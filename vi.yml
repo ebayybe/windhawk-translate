@@ -425,5 +425,3 @@ app:
     downloadButton: "Tải về"
   footer:
     copyright: "Bản quyền"
-    footer:
-      copyright: ~
