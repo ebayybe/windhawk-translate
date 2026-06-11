@@ -389,39 +389,41 @@ app:
       contributeTranslation: "Đóng góp bản dịch mới"
     home:
       tagline: "Chợ tùy chỉnh cho các chương trình Windows"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
+      download: "Tải về"
+    getInvolved: "Tham gia"
+    joinDiscord: "Tham gia cộng đồng Windhawk trên Discord"
+    discussWindhawk: "Thảo luận về Windhawk trên GitHub Discussions"
+    discussMods: "Thảo luận về các mod Windhawk trên GitHub Discussions"
+    browseLinks: "Tìm kiếm các liên kết hữu ích khác"
+    highlights: "Điểm nổi bật"
+    robust: "Độ tin cậy"
+    robustDescription: "Sự ổn định và hiệu suất rất quan trọng đối với Windhawk. Nó được thiết kế để chạy liên tục trong nền mà không gây ảnh hưởng đáng kể đến hệ thống."
+    simple: "Sự đơn giản"
+    simpleDescription: "Không cần phải là một chuyên gia máy tính để sử dụng Windhawk, bất kỳ ai cũng có thể sử dụng nó. Các bản sửa đổi phức tạp có thể được cài đặt chỉ trong vài cú nhấp chuột và tùy chỉnh bằng các tùy chọn tiện lợi."
+    transparent: "Tính minh bạch"
+    transparentDescription: "Các mod mà Windhawk cung cấp không phải là «mèo trong bao». Mỗi mod được cung cấp dưới dạng mã nguồn công khai, có thể được kiểm tra để đảm bảo rằng mod đó thực hiện chính xác những gì được tuyên bố."
+  modDetails:
+    getWindhawk: "Tải về Windhawk để cài đặt mod này"
+  links:
+    news: "Tin tức"
+    windhawkNews: "Tin tức Windhawk - Ramen Software"
+    windhawkChangelog: "Nhật ký thay đổi Windhawk"
+    community: "Cộng đồng"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "Các mod Windhawk - GitHub Discussions"
+    documentation: "Tài liệu hướng dẫn"
+    creatingNewMod: "Tạo mod mới"
+    otherTopics: "Các chủ đề khác"
+    feedback: "Phản hồi"
+    reportIssue: "Báo cáo sự cố"
+    contactRamenSoftware: "Liên hệ với Ramen Software"
+  download:
+    title: "Cập nhật Windhawk"
+    newVersionAvailable: "Có phiên bản Windhawk mới"
+    whatsNew: "Có gì mới"
+    downloadButton: "Tải về"
+  footer:
+    copyright: "Bản quyền"
     footer:
       copyright: ~
