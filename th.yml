@@ -389,39 +389,41 @@ app:
       contributeTranslation: "ร่วมแปลภาษาใหม่"
     home:
       tagline: "โปรแกรมรวบรวมการปรับแต่งสำหรับ Windows และโปรแกรมต่าง ๆ"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
+      download: "ดาวน์โหลด"
+    getInvolved: "มีส่วนร่วม"
+    joinDiscord: "เข้าร่วมชุมชน Windhawk บน Discord"
+    discussWindhawk: "พูดคุยเกี่ยวกับ Windhawk บน GitHub Discussions"
+    discussMods: "พูดคุยเกี่ยวกับม็อด Windhawk บน GitHub Discussions"
+    browseLinks: "ค้นหาลิงก์ที่มีประโยชน์อื่นๆ"
+    highlights: "ไฮไลท์"
+    robust: "ความเสถียร"
+    robustDescription: "ความเสถียรและประสิทธิภาพเป็นสิ่งสำคัญมากสำหรับ Windhawk มันถูกออกแบบมาให้ทำงานในเบื้องหลังอย่างต่อเนื่อง โดยไม่ส่งผลกระทบต่อระบบอย่างเห็นได้ชัด"
+    simple: "ความเรียบง่าย"
+    simpleDescription: "ไม่จำเป็นต้องเป็นผู้เชี่ยวชาญด้านคอมพิวเตอร์ก็สามารถใช้ Windhawk ได้ ใครๆ ก็ใช้งานได้ ม็อดที่ซับซ้อนสามารถติดตั้งได้ในไม่กี่คลิกและปรับแต่งได้ด้วยตัวเลือกที่สะดวกสบาย"
+    transparent: "ความโปร่งใส"
+    transparentDescription: "ม็อดที่ Windhawk นำเสนอไม่ใช่การ «ซื้อแมวในกระสอบ» ม็อดแต่ละตัวจะแสดงในรูปแบบของซอร์สโค้ดที่สามารถตรวจสอบได้ เพื่อให้แน่ใจว่าม็อดนั้นทำงานตรงตามที่ระบุไว้จริง"
+  modDetails:
+    getWindhawk: "ดาวน์โหลด Windhawk เพื่อติดตั้งม็อดนี้"
+  links:
+    news: "ข่าวสาร"
+    windhawkNews: "ข่าวสาร Windhawk - Ramen Software"
+    windhawkChangelog: "บันทึกการเปลี่ยนแปลงของ Windhawk"
+    community: "ชุมชน"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "ม็อด Windhawk - GitHub Discussions"
+    documentation: "เอกสารคู่มือ"
+    creatingNewMod: "สร้างม็อดใหม่"
+    otherTopics: "หัวข้ออื่นๆ"
+    feedback: "คำติชมและข้อเสนอแนะ"
+    reportIssue: "รายงานปัญหา"
+    contactRamenSoftware: "ติดต่อ Ramen Software"
+  download:
+    title: "อัปเดต Windhawk"
+    newVersionAvailable: "มี Windhawk เวอร์ชันใหม่พร้อมใช้งาน"
+    whatsNew: "มีอะไรใหม่"
+    downloadButton: "ดาวน์โหลด"
+  footer:
+    copyright: "ลิขสิทธิ์"
     footer:
       copyright: ~
