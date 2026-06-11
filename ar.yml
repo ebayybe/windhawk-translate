@@ -397,39 +397,39 @@ app:
       contributeTranslation: "ساهم بترجمة جديدة"
     home:
       tagline: "سوق التخصيص لنظام ويندوز والبرامج"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
-    footer:
-      copyright: ~
+      download: "تنزيل"
+    getInvolved: "شارك معنا"
+    joinDiscord: "انضم إلى مجتمع Windhawk على Discord"
+    discussWindhawk: "ناقش Windhawk في GitHub Discussions"
+    discussMods: "ناقش تعديلات Windhawk في GitHub Discussions"
+    browseLinks: "تصفح روابط مفيدة أخرى"
+    highlights: "أبرز الميزات"
+    robust: "الموثوقية"
+    robustDescription: "الاستقرار والأداء أمران بالغي الأهمية بالنسبة لـ Windhawk. لقد تم تصميمه ليعمل باستمرار في الخلفية دون أي تأثير ملحوظ على النظام."
+    simple: "البساطة"
+    simpleDescription: "لا تحتاج إلى أن تكون خبيراً في الكمبيوتر لاستخدام Windhawk، يمكن للجميع استخدامه. يمكن تثبيت التعديلات المعقدة ببضع نقرات وتخصيصها عبر خيارات مريحة."
+    transparent: "الشفافية"
+    transparentDescription: "التعديلات التي يقدمها Windhawk ليست «شراء سمك في ماء». يتم تقديم كل تعديل في شكل كود مصدري يمكن فصحه للتأكد من أن التعديل يفعل بالضبط ما هو معلن عنه."
+  modDetails:
+    getWindhawk: "قم بتنزيل Windhawk لتثبيت هذا التعديل"
+  links:
+    news: "الأخبار"
+    windhawkNews: "أخبار Windhawk - Ramen Software"
+    windhawkChangelog: "سجل تغييرات Windhawk"
+    community: "المجتمع"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "تعديلات Windhawk - GitHub Discussions"
+    documentation: "التوثيق"
+    creatingNewMod: "إنشاء تعديل جديد"
+    otherTopics: "مواضيع أخرى"
+    feedback: "الآراء والملاحظات"
+    reportIssue: "الإبلاغ عن مشكلة"
+    contactRamenSoftware: "الاتصال بـ Ramen Software"
+  download:
+    title: "تحديث Windhawk"
+    newVersionAvailable: "نسخة جديدة من Windhawk متاحة الآن"
+    whatsNew: "ما الجديد"
+    downloadButton: "تنزيل"
+  footer:
+    copyright: "حقوق النشر"
