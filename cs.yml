@@ -393,39 +393,39 @@ app:
       contributeTranslation: "Přidat nový překlad"
     home:
       tagline: "Tržiště pro přizpůsobení programů Windows"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
-    footer:
-      copyright: ~
+      download: "Stáhnout"
+    getInvolved: "Zapojte se"
+    joinDiscord: "Připojte se ke komunitě Windhawk na Discordu"
+    discussWindhawk: "Diskutujte o Windhawk na GitHub Discussions"
+    discussMods: "Diskutujte o modifikacích Windhawk na GitHub Discussions"
+    browseLinks: "Prohlížet další užitečné odkazy"
+    highlights: "Hlavní body"
+    robust: "Spolehlivost"
+    robustDescription: "Stabilita a výkon jsou pro Windhawk velmi důležité. Byl navržen tak, aby neustále běžel na pozadí, aniž by měl znatelný dopad na systém."
+    simple: "Jednoduchost"
+    simpleDescription: "Nemusíte být počítačový expert, abyste mohli Windhawk používat, zvládne to každý. Složité modifikace lze nainstalovat pouhými několika kliknutími a přizpůsobit pomocí pohodlných možností."
+    transparent: "Transparentnost"
+    transparentDescription: "Modifikace, které Windhawk nabízí, nejsou žádný «zajíc v pytli». Každá modifikace je prezentována ve formě zdrojového kódu, který lze zkontrolovat, abyste se ujistili, že dělá přesně to, co je deklarováno."
+  modDetails:
+    getWindhawk: "Stáhněte si Windhawk pro instalaci této modifikace"
+  links:
+    news: "Novinky"
+    windhawkNews: "Novinky o Windhawk - Ramen Software"
+    windhawkChangelog: "Historie změn Windhawk"
+    community: "Komunita"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "Modifikace Windhawk - GitHub Discussions"
+    documentation: "Dokumentace"
+    creatingNewMod: "Vytvořit novou modifikaci"
+    otherTopics: "Další témata"
+    feedback: "Zpětná vazba"
+    reportIssue: "Nahlásit problém"
+    contactRamenSoftware: "Kontaktovat Ramen Software"
+  download:
+    title: "Aktualizovat Windhawk"
+    newVersionAvailable: "Je k dispozici nová verze Windhawk"
+    whatsNew: "Co je nového"
+    downloadButton: "Stáhnout"
+  footer:
+    copyright: "Autorská práva"
