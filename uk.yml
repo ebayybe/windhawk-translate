@@ -393,39 +393,39 @@ app:
       contributeTranslation: "Надіслати свій переклад"
     home:
       tagline: "Маркетплейс для кастомізації застосунків Windows"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
-    footer:
-      copyright: ~
+      download: "Завантажити"
+    getInvolved: "Долучитися"
+    joinDiscord: "Приєднатися до спільноти Windhawk у Discord"
+    discussWindhawk: "Обговорити Windhawk у GitHub Discussions"
+    discussMods: "Обговорити моди Windhawk у GitHub Discussions"
+    browseLinks: "Пошук інших корисних посилань"
+    highlights: "Головне"
+    robust: "Надійність"
+    robustDescription: "Стабільність та продуктивність дуже важливі для Windhawk. Він був розроблений так, щоб постійно працювати у фоновому режимі, не чинячи помітного впливу на систему."
+    simple: "Простота"
+    simpleDescription: "Не обов'язково бути комп'ютерним експертом, щоб користуватися Windhawk — ним може користуватися кожен. Складні моди можна встановити всього в кілька кліків та налаштувати за допомогою зручних опцій."
+    transparent: "Прозорість"
+    transparentDescription: "Моди, які пропонує Windhawk, не є «котом у мішку». Кожен мод представлений у вигляді вихідного коду, який можна перевірити, щоб переконатися, що він виконує саме те, що заявлено."
+  modDetails:
+    getWindhawk: "Завантажити Windhawk для встановлення цього моду"
+  links:
+    news: "Новости"
+    windhawkNews: "Новини Windhawk — Ramen Software"
+    windhawkChangelog: "Журнал змін Windhawk"
+    community: "Спільнота"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk — GitHub Discussions"
+    modsDiscussions: "Моди Windhawk — GitHub Discussions"
+    documentation: "Документація"
+    creatingNewMod: "Створити новий мод"
+    otherTopics: "Інші теми"
+    feedback: "Зворотний зв'язок"
+    reportIssue: "Повідомити про проблему"
+    contactRamenSoftware: "Зв'язатися з Ramen Software"
+  download:
+    title: "Оновити Windhawk"
+    newVersionAvailable: "Доступна нова версія Windhawk"
+    whatsNew: "Що нового"
+    downloadButton: "Завантажити"
+  footer:
+    copyright: "Авторські права"
