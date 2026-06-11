@@ -389,39 +389,39 @@ app:
       contributeTranslation: "नया अनुवाद योगदान करें।"
     home:
       tagline: "विंडोज और प्रोग्राम्स के लिए अनुकूलन मार्केटप्लेस"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
-    footer:
-      copyright: ~
+      download: "डाउनलोड करें"
+    getInvolved: "शामिल हों"
+    joinDiscord: "Discord पर Windhawk समुदाय में शामिल हों"
+    discussWindhawk: "GitHub Discussions पर Windhawk के बारे में चर्चा करें"
+    discussMods: "GitHub Discussions पर Windhawk मॉड्स के बारे में चर्चा करें"
+    browseLinks: "अन्य उपयोगी लिंक ब्राउज़ करें"
+    highlights: "मुख्य विशेषताएं"
+    robust: "विश्वसनीयता"
+    robustDescription: "Windhawk के लिए स्थिरता और प्रदर्शन बहुत महत्वपूर्ण हैं। इसे सिस्टम पर बिना किसी विशेष प्रभाव के पृष्ठभूमि (background) में लगातार चलने के लिए डिज़ाइन किया गया है।"
+    simple: "सरलता"
+    simpleDescription: "Windhawk का उपयोग करने के लिए कंप्यूटर विशेषज्ञ होने की आवश्यकता नहीं है, इसे कोई भी उपयोग कर सकता है। जटिल मॉड्स को बस कुछ ही क्लिक में इंस्टॉल किया जा सकता है और सुविधाजनक विकल्पों के साथ कस्टमाइज़ किया जा सकता है।"
+    transparent: "पारदर्शिता"
+    transparentDescription: "Windhawk द्वारा दिए जाने वाले मॉड्स कोई अंधेरे में तीर चलाने जैसे («कोट में बिल्ली» जैसे) नहीं हैं। प्रत्येक मॉड सोर्स कोड के रूप में उपलब्ध है, जिसकी जांच करके यह सुनिश्चित किया जा सकता है कि मॉड वही कर रहा है जो बताया गया है।"
+  modDetails:
+    getWindhawk: "इस मॉड को इंस्टॉल करने के लिए Windhawk डाउनलोड करें"
+  links:
+    news: "समाचार"
+    windhawkNews: "Windhawk समाचार - Ramen Software"
+    windhawkChangelog: "Windhawk का चेंजलॉग (बदलावों की सूची)"
+    community: "समुदाय"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "Windhawk मॉड्स - GitHub Discussions"
+    documentation: "दस्तावेज़ (Documentation)"
+    creatingNewMod: "नया मॉड बनाएं"
+    otherTopics: "अन्य विषय"
+    feedback: "प्रतिक्रिया (Feedback)"
+    reportIssue: "समस्या की रिपोर्ट करें"
+    contactRamenSoftware: "Ramen Software से संपर्क करें"
+  download:
+    title: "Windhawk को अपडेट करें"
+    newVersionAvailable: "Windhawk का नया संस्करण उपलब्ध है"
+    whatsNew: "नया क्या है"
+    downloadButton: "डाउनलोड करें"
+  footer:
+    copyright: "कॉपीराइट"
