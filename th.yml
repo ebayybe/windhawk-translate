@@ -425,5 +425,3 @@ app:
     downloadButton: "ดาวน์โหลด"
   footer:
     copyright: "ลิขสิทธิ์"
-    footer:
-      copyright: ~
