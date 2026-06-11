@@ -391,39 +391,39 @@ app:
       contributeTranslation: "Doprinesite novom prijevodu"
     home:
       tagline: "Tržište prilagodbi za Windows i programe"
-      download: ~
-      getInvolved: ~
-      joinDiscord: ~
-      discussWindhawk: ~
-      discussMods: ~
-      browseLinks: ~
-      highlights: ~
-      robust: ~
-      robustDescription: ~
-      simple: ~
-      simpleDescription: ~
-      transparent: ~
-      transparentDescription: ~
-    modDetails:
-      getWindhawk: ~
-    links:
-      news: ~
-      windhawkNews: ~
-      windhawkChangelog: ~
-      community: ~
-      discord: ~
-      windhawkDiscussions: ~
-      modsDiscussions: ~
-      documentation: ~
-      creatingNewMod: ~
-      otherTopics: ~
-      feedback: ~
-      reportIssue: ~
-      contactRamenSoftware: ~
-    download:
-      title: ~
-      newVersionAvailable: ~
-      whatsNew: ~
-      downloadButton: ~
-    footer:
-      copyright: ~
+      download: "Preuzmi"
+    getInvolved: "Uključi se"
+    joinDiscord: "Pridruži se zajednici Windhawk na Discordu"
+    discussWindhawk: "Raspravi o Windhawku na GitHub Discussions"
+    discussMods: "Raspravi o Windhawk modifikacijama na GitHub Discussions"
+    browseLinks: "Pregledaj ostale korisne poveznice"
+    highlights: "Glavne značajke"
+    robust: "Pouzdanost"
+    robustDescription: "Stabilnost i performanse vrlo su važni za Windhawk. Dizajniran je da stalno radi u pozadini bez primjetnog utjecaja na sustav."
+    simple: "Jednostavnost"
+    simpleDescription: "Ne morate biti računalni stručnjak da biste koristili Windhawk, svatko ga može koristiti. Složene modifikacije mogu se instalirati u samo nekoliko klikova i prilagoditi pomoću praktičnih opcija."
+    transparent: "Prozirnost"
+    transparentDescription: "Modifikacije koje Windhawk nudi nisu «mačak u vreći». Svaka modifikacija predstavljena je u obliku izvornog koda koji se može provjeriti kako biste bili sigurni da modifikacija radi točno ono što je navedeno."
+  modDetails:
+    getWindhawk: "Preuzmi Windhawk za instalaciju ove modifikacije"
+  links:
+    news: "Vijesti"
+    windhawkNews: "Windhawk Vijesti - Ramen Software"
+    windhawkChangelog: "Popis promjena za Windhawk"
+    community: "Zajednica"
+    discord: "Discord"
+    windhawkDiscussions: "Windhawk - GitHub Discussions"
+    modsDiscussions: "Windhawk Modifikacije - GitHub Discussions"
+    documentation: "Dokumentacija"
+    creatingNewMod: "Stvori novu modifikaciju"
+    otherTopics: "Druge teme"
+    feedback: "Povratne informacije"
+    reportIssue: "Prijavi problem"
+    contactRamenSoftware: "Kontaktiraj Ramen Software"
+  download:
+    title: "Ažuriraj Windhawk"
+    newVersionAvailable: "Dostupna je nova verzija Windhawka"
+    whatsNew: "Što je novo"
+    downloadButton: "Preuzmi"
+  footer:
+    copyright: "Autorska prava"
